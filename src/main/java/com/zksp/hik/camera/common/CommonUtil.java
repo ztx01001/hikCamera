@@ -3,6 +3,7 @@ package com.zksp.hik.camera.common;
 /**
  * @author
  * @create 2022-03-22-11:13
+ * @公共功能
  */
 public class CommonUtil {
 
